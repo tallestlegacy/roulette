@@ -16,12 +16,13 @@
 </script>
 
 <span>{emoji}</span>
-.
 <span>{index}</span>
 
 <style>
 	span {
 		font-size: 10rem;
 		font-family: "Courier New", Courier, monospace;
+		color: darkturquoise;
+		
 	}
 </style>
